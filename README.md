@@ -1,4 +1,4 @@
-# Antti Raidan Portfolio
+# Portfolio
 
 ## Taidot
 
