@@ -31,10 +31,10 @@
 
 ### [REST API](https://github.com/ajaraita/rest-api)
 
-- Description: Päättötyö JAMKin "Backend-ohjelmointi 1" -opintojaksolle. REST rajapinta, jota voidaan kutsua esim. Postmanilla tai curlilla
-- Technologies Used: Nest, Node.js, TypeScript
-- Demo: Link to live demo (if available)
-- GitHub Repository: Link to GitHub repository
+- Kuvaus: Päättötyö JAMKin "Backend-ohjelmointi 1" -opintojaksolle. REST rajapinta, jota voidaan kutsua esim. Postmanilla tai curlilla
+- Käytety teknologiat: Nest, Node.js, TypeScript
+
+- GitHub Repository: https://github.com/ajaraita/rest-api
 
 ## Sertifikaatiot
 
