@@ -5,7 +5,9 @@
 - HTML5
 - CSS3 (Sass)
 - JavaScript (ES6+)
-- Front-end Frameworks (React.js)
+- TypeScript
+- Python
+- Front-end Frameworks (React.js, Angular)
 - Versionhallinta (Git)
 - Pilvipalvelut (AWS)
 
