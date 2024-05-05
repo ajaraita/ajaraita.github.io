@@ -1,1 +1,0 @@
-# ajaraita.github.io
