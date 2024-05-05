@@ -1,45 +1,47 @@
-# Your Name
+# Antti Raidan Portfolio
 
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+## Taidot
 
-## Summary
+- HTML5
+- CSS3 (Sass)
+- JavaScript (ES6+)
+- Front-end Frameworks (React.js)
+- Versionhallinta (Git)
+- Pilvipalvelut (AWS)
 
-1-2 sentences summarizing your professional experience and expertise
+## Projektit
 
-## Skills
+### [Full Stack Open](https://github.com/ajaraita/fsOpenPalautukset)
 
-- Programming Languages: Python, JavaScript, etc
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+- Kuvaus: Helsingin avoimen yliopiston Full Stack -verkkosovellusohjelmointi kurssi, jonka suoritin vuoden 2023 lopussa.
 
-## Experience
+- Käytetyt teknologiat: HTML, CSS, JavaScript, TypeScript, React.js
 
-**Company Name** (Dates)  
-Job Title
+- GitHub Repo: https://github.com/ajaraita/fsOpenPalautukset
 
-- Accomplishment 1
-- Accomplishment 2
+### [Votea](https://github.com/jamktiko/huutisRepo)
 
-**Company Name** (Dates)
-Job Title
+- Kuvaus: Ticorporate-opintojakson projektimme, jossa luotiin reaaliaikainen äänestyssovellus. Projektissa vastasin pilviarkkiteehtuurista, liiketoiminnasta sekä toimin Scrum Masterina.
 
-- Accomplishment 1
-- Accomplishment 2
+- Käytetyt teknologiat: HTML, CSS, JavaScript, TypeScript, Nodejs, Angular
 
-## Projects
+- GitHub Repo: https://github.com/jamktiko/huutisRepo
 
-**Project 1** (link to project site or GitHub repo)
+### [REST API](https://github.com/ajaraita/rest-api)
 
-- Description of tech used and what the project involved/accomplished
-- Accomplishment
+- Description: Päättötyö JAMKin "Backend-ohjelmointi 1" -opintojaksolle. REST rajapinta, jota voidaan kutsua esim. Postmanilla tai curlilla
+- Technologies Used: Nest, Node.js, TypeScript
+- Demo: Link to live demo (if available)
+- GitHub Repository: Link to GitHub repository
 
-**Project 2** (link)
+## Sertifikaatiot
 
-- Description
-- Accomplishment
+- Cloud Practitioner, AWS, 2023
+- Certfied Solutions Architect, AWS, 2024
+- Certfied Cloud Developer, AWS, 2024
 
-## Education
+## Yhteystiedot
 
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
+- Email: anttirait4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/antti-raita-06b71b1b8/
+- GitHub: https://github.com/ajaraita
